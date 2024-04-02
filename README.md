@@ -1,0 +1,1 @@
+In this work a micro-moment labeled anomalous power consumption dataset is used. The Instances of the dataset are converted to the QR Codes and different CNN model configurations are used to perform the classification task. The performance of the model is evaluated using Standard Performance Evaluation Metrics namely Accuracy, Precision, Recall, and F1-Score
